@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MARKETING one-word domains still available to buy.
 
-This dataset contains 7,217 .MARKETING one word domains with availability, attractiveness and demand scores.
+This dataset contains 7,219 .MARKETING one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MARKETING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=marketing-oneword-domains&utm_content=description.top) (7,216) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [.MARKETING one word do
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,537       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 61,582       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,156,621    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
