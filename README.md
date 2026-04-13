@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C197%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C198%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C194%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .marketing one-word domains from U
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,197 rows · **Live catalog:** 8,194 domains
+**Public extract:** 8,198 rows · **Live catalog:** 8,194 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/marketing`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MARKETING one-word do
 
 ### Files
 
-- `marketing.csv` — public CSV extract (8,197 rows)
-- `marketing.json` — public JSON extract (8,197 rows)
+- `marketing.csv` — public CSV extract (8,198 rows)
+- `marketing.json` — public JSON extract (8,198 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,13 +64,13 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| order.marketing    | available | $9.99     | $52.99        | 78             | 41     | 5      | name.com                                                  |
+| order.marketing    | available | $9.99     | $52.99        | 78             | 40     | 5      | name.com                                                  |
 | group.marketing    | resell    | $42.90    | $42.90        | 94             | 32     | 5      | GoDaddy.com, LLC                                          |
 | big.marketing      | premium   | $82.50    | $82.50        | 88             | 47     | 3      | name.com                                                  |
-| near.marketing     | available | $9.99     | —             | 66             | 37     | 4      | name.com                                                  |
+| terminal.marketing | available | $9.99     | $52.99        | 104            | 37     | 8      | name.com                                                  |
 | boss.marketing     | resell    | —         | —             | 76             | 73     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | only.marketing     | premium   | $250      | $250          | 110            | 46     | 4      | name.com                                                  |
-| terminal.marketing | available | $9.99     | $52.99        | 104            | 36     | 8      | name.com                                                  |
+| near.marketing     | available | $9.99     | —             | 66             | 37     | 4      | name.com                                                  |
 | get.marketing      | resell    | —         | —             | 88             | 69     | 3      | Porkbun LLC                                               |
 | work.marketing     | premium   | $123.75   | —             | 80             | 45     | 4      | name.com                                                  |
 | sharp.marketing    | available | $9.99     | $52.99        | 84             | 36     | 5      | name.com                                                  |
@@ -79,10 +79,10 @@ print(df.head())
 | resume.marketing   | available | $9.99     | $52.99        | 98             | 35     | 6      | name.com                                                  |
 | domain.marketing   | resell    | —         | —             | 80             | 64     | 6      | GoDaddy.com, LLC                                          |
 | map.marketing      | premium   | $128.70   | $128.70       | 78             | 42     | 3      | namecheap                                                 |
-| hidden.marketing   | available | $9.99     | $52.99        | 65             | 35     | 6      | name.com                                                  |
+| electric.marketing | available | $9.99     | $52.99        | 86             | 34     | 8      | name.com                                                  |
 | sense.marketing    | resell    | —         | —             | 102            | 63     | 5      | Spaceship, Inc.                                           |
 | tax.marketing      | premium   | $123.75   | —             | 74             | 41     | 3      | name.com                                                  |
-| electric.marketing | available | $9.99     | $52.99        | 86             | 34     | 8      | name.com                                                  |
+| coral.marketing    | available | $9.99     | $52.99        | 68             | 34     | 5      | name.com                                                  |
 | ant.marketing      | resell    | —         | —             | 86             | 62     | 3      | Sav.com, LLC - 18                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,197-row public sample | 8,194 live domains                               |
+| 8,198-row public sample | 8,194 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
