@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .marketing one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,070 domains · **Median ask:** $15.16 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/marketing`  
 **Best for:** founders, investors, studios
 
@@ -75,13 +75,13 @@ print(df.head())
 | payments.marketing | available | $9.99     | —             | 58             | 33     | 8      | name.com                                                  |
 | data.marketing     | resell    | —         | —             | 84             | 54     | 4      | Porkbun LLC                                               |
 | events.marketing   | premium   | $82.50    | —             | 68             | 37     | 6      | name.com                                                  |
-| birds.marketing    | available | $9.99     | —             | 61             | 30     | 5      | name.com                                                  |
+| blocks.marketing   | available | $9.99     | —             | 53             | 29     | 6      | name.com                                                  |
 | agents.marketing   | resell    | —         | —             | 56             | 50     | 6      | NameCheap, Inc.                                           |
 | homes.marketing    | premium   | $82.50    | —             | 86             | 34     | 5      | name.com                                                  |
-| blocks.marketing   | available | $9.99     | —             | 53             | 29     | 6      | name.com                                                  |
+| cams.marketing     | available | $9.99     | —             | 52             | 29     | 4      | name.com                                                  |
 | genius.marketing   | resell    | —         | —             | 84             | 44     | 6      | Porkbun LLC                                               |
 | trends.marketing   | premium   | $500      | —             | 60             | 32     | 6      | name.com                                                  |
-| cams.marketing     | available | $9.99     | —             | 52             | 29     | 4      | name.com                                                  |
+| goods.marketing    | available | $9.99     | —             | 74             | 27     | 5      | name.com                                                  |
 | mode.marketing     | resell    | —         | —             | 70             | 38     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | systems.marketing  | premium   | $123.75   | —             | 46             | 27     | 7      | name.com                                                  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKETING One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKETING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
