@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .marketing one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,070 domains · **Median ask:** $15.16 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/marketing`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | Trex.marketing     | available | $53.98    | —             | 80             | 24     | 5      | namecheap                                                 |
 | useit.marketing    | available | $9.99     | —             | 94             | 7      | 6      | name.com                                                  |
 | gearup.marketing   | available | $9.99     | —             | 80             | 16     | 7      | name.com                                                  |
-| rumcake.marketing  | available | $9.99     | —             | 81             | 3      | 8      | name.com                                                  |
+| rumcake.marketing  | available | $9.99     | —             | 81             | 2      | 8      | name.com                                                  |
 | FabFour.marketing  | available | $9.99     | —             | 82             | 3      | 8      | name.com                                                  |
 | prompts.marketing  | available | $9.99     | —             | 54             | 39     | 7      | name.com                                                  |
 | get.marketing      | resell    | —         | —             | 88             | 64     | 3      | Porkbun LLC                                               |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKETING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKETING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
