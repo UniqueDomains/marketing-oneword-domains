@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .marketing one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,070 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,070 domains · **Median ask:** $15.16 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,070 domains · **Median ask:** $14.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/marketing`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/marketing`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MARKETING one-word do
 
 ### Files
 
-- `marketing.csv` — public CSV extract (1,000 rows)
-- `marketing.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `marketing.csv`, public CSV extract (1,000 rows)
+- `marketing.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| Trex.marketing     | available | $53.98    | —             | 80             | 24     | 5      | namecheap                                                 |
-| useit.marketing    | available | $9.99     | —             | 94             | 7      | 6      | name.com                                                  |
-| gearup.marketing   | available | $9.99     | —             | 80             | 16     | 7      | name.com                                                  |
-| rumcake.marketing  | available | $9.99     | —             | 81             | 2      | 8      | name.com                                                  |
-| FabFour.marketing  | available | $9.99     | —             | 82             | 3      | 8      | name.com                                                  |
-| prompts.marketing  | available | $9.99     | —             | 54             | 39     | 7      | name.com                                                  |
-| get.marketing      | resell    | —         | —             | 88             | 64     | 3      | Porkbun LLC                                               |
-| Tools.marketing    | premium   | $92.40    | $92.40        | 56             | 40     | 5      | namecheap                                                 |
-| payments.marketing | available | $9.99     | —             | 58             | 33     | 8      | name.com                                                  |
-| data.marketing     | resell    | —         | —             | 84             | 54     | 4      | Porkbun LLC                                               |
-| events.marketing   | premium   | $82.50    | —             | 68             | 37     | 6      | name.com                                                  |
-| blocks.marketing   | available | $9.99     | —             | 53             | 29     | 6      | name.com                                                  |
-| agents.marketing   | resell    | —         | —             | 56             | 50     | 6      | NameCheap, Inc.                                           |
-| homes.marketing    | premium   | $82.50    | —             | 86             | 34     | 5      | name.com                                                  |
-| cams.marketing     | available | $9.99     | —             | 52             | 29     | 4      | name.com                                                  |
-| genius.marketing   | resell    | —         | —             | 84             | 44     | 6      | Porkbun LLC                                               |
-| trends.marketing   | premium   | $500      | —             | 60             | 32     | 6      | name.com                                                  |
-| goods.marketing    | available | $9.99     | —             | 74             | 27     | 5      | name.com                                                  |
-| mode.marketing     | resell    | —         | —             | 70             | 38     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| systems.marketing  | premium   | $123.75   | —             | 46             | 27     | 7      | name.com                                                  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| cow.marketing  | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| Ava.marketing  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 39 |
+| bid.marketing  | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| cue.marketing  | available | $9.99     | —             | medium         | low    | 3      | name.com          |
+| bob.marketing  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 17 |
+| His.marketing  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| fee.marketing  | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| ccc.marketing  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 13 |
+| ink.marketing  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| hic.marketing  | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| liv.marketing  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC      |
+| moi.marketing  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| jar.marketing  | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| tap.marketing  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| say.marketing  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
+| jot.marketing  | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| area.marketing | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 25 |
+| tip.marketing  | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| lcd.marketing  | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| bite.marketing | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word names on the .marketing extension. That creates a narrow brand pattern: the keyword does most of the work, while the extension signals category and use case. Examples such as Acup.marketing, finals.marketing, jewels.marketing, ladies.marketing, and useit.marketing show the range from generic terms to more branded constructions. For founders, the key question is whether the word stays clear and memorable when paired with .marketing. For investors, the main check is whether the term is broad enough to attract multiple buyers without creating obvious trademark pressure. The median ask is 15.17, so quality judgment matters more than headline price alone.
+This list covers one-word and short compound domain names on the .marketing extension — a TLD built for agencies, consultants, and campaign-driven brands. Names range from literal marketing terms like windowshop.marketing to memorable, unexpected picks like rumcake.marketing and pierogi.marketing. With a median ask near $15 across 11,070+ names, most of this selection is priced for fast, low-risk evaluation rather than premium six-figure deals.
 
-- Prefer words that read cleanly with .marketing
-- Check plural forms like finals or ladies for fit
-- Avoid obvious trademark-heavy terms like Apples
-- Favor broad commercial words over narrow jargon
+- 11,070+ one-word .marketing domain names in this selection
+- Median ask near $15 across the full list
+- Mix of literal terms and brandable, unexpected word pairs
+- Priced for quick evaluation, not premium six-figure deals
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKETING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKETING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
