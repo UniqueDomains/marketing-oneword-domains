@@ -1,10 +1,10 @@
-# Available .MARKETING One-Word Domains (20,295)
+# Available .MARKETING One-Word Domains (20,654)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C295%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C654%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .marketing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,295 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,654 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,295 domains · **Median ask:** $10.46 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 20,654 domains · **Median ask:** $10.47 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/marketing`
@@ -73,16 +73,16 @@ print(df.head())
 | cup.marketing     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo            |
 | den.marketing     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc         |
 | fail.marketing    | premium   | $242      | $242          | high           | low    | 4      | namesilo            |
-| ire.marketing     | available | $8.99     | $41.99        | medium         | low    | 3      | namesilo            |
+| hui.marketing     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo            |
 | able.marketing    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11   |
 | find.marketing    | premium   | $82.50    | —             | high           | medium | 4      | name.com            |
-| jra.marketing     | available | $8.99     | $41.99        | medium         | low    | 3      | namesilo            |
+| ire.marketing     | available | $8.99     | $41.99        | medium         | low    | 3      | namesilo            |
 | jazz.marketing    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5    |
 | heart.marketing   | premium   | $85.80    | $85.80        | high           | low    | 5      | namecheap           |
-| mgm.marketing     | available | $9.99     | $52.99        | high           | low    | 3      | name.com            |
+| jaw.marketing     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo            |
 | lord.marketing    | resell    | —         | —             | high           | low    | 4      | IONOS SE            |
 | rocks.marketing   | premium   | $242      | $242          | high           | low    | 5      | namesilo            |
-| nub.marketing     | available | $6.98     | $53.98        | high           | low    | 3      | namecheap           |
+| jra.marketing     | available | $8.99     | $41.99        | medium         | low    | 3      | namesilo            |
 | peak.marketing    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,295 live domains                        |
+| 1,000-row public sample | 20,654 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
