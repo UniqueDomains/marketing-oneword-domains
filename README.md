@@ -1,10 +1,10 @@
-# Available .MARKETING One-Word Domains (25,358)
+# Available .MARKETING One-Word Domains (27,519)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C358%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C519%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .marketing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,358 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,519 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,358 domains · **Median ask:** $10.84 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 27,519 domains · **Median ask:** $10.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/marketing`
 **Best for:** founders, investors, studios
 
@@ -69,20 +69,20 @@ print(df.head())
 | ams.marketing     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
 | ano.marketing     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo          |
 | eden.marketing    | resell    | —         | —             | high           | medium | 4      | —                 |
-| ira.marketing     | premium   | $54.36    | $108.60       | high           | low    | 3      | porkbun           |
+| ira.marketing     | premium   | $54.36    | $108.60       | medium         | low    | 3      | porkbun           |
 | awn.marketing     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo          |
 | jazz.marketing    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5  |
 | llp.marketing     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | blm.marketing     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo          |
 | lord.marketing    | resell    | —         | —             | high           | low    | 4      | IONOS SE          |
-| fail.marketing    | premium   | $207.20   | $207.20       | high           | low    | 4      | spaceship         |
-| cba.marketing     | available | $6.98     | $53.98        | high           | low    | 3      | namecheap         |
+| fail.marketing    | premium   | $207.20   | $207.20       | medium         | low    | 4      | spaceship         |
+| bok.marketing     | available | $32.20    | $32.20        | high           | low    | 3      | cloudflare        |
 | peak.marketing    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 | find.marketing    | premium   | $68.51    | $68.51        | high           | medium | 4      | spaceship         |
-| cfr.marketing     | available | $8.99     | $41.99        | medium         | low    | 3      | namesilo          |
+| cba.marketing     | available | $6.98     | $53.98        | high           | low    | 3      | namecheap         |
 | pets.marketing    | resell    | —         | —             | low            | low    | 4      | —                 |
 | heart.marketing   | premium   | $85.80    | $85.80        | high           | low    | 5      | namecheap         |
-| cup.marketing     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo          |
+| cbo.marketing     | available | $6.41     | $33.32        | high           | low    | 3      | spaceship         |
 | pure.marketing    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 24 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,358 live domains                        |
+| 1,000-row public sample | 27,519 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKETING One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKETING One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
